@@ -1,2 +1,2 @@
 # Data-Analysis-Project
-Basic Data Analytics Dashboards (Power Bi).
+Data Analytics Dashboards (Power Bi).
